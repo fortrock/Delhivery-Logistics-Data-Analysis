@@ -5,8 +5,8 @@ This Power BI project provides an exploratory data analysis (EDA) of logistics d
 
 ## Key Metrics
 - **Total Shipments:** 144,870
-- **Total Distance Covered:** 33.91M units
-- **Average Delivery Time:** 416.93 (unit based on dataset – minutes/hours)
+- **Total Distance Covered:** 33.91M 
+- **Average Delivery Time:** 416.93 minutes
 - **On-Time Deliveries:** 81.97%
 - **Delayed Shipments:** 18.03%
 
